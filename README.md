@@ -176,7 +176,7 @@ public class Show {
       } 
    }
 }
-# Get one student information depending on the student id filter.
+# # Get one student information depending on the student id filter.
 package CRUD;
 
 import java.sql.Connection;
